@@ -1,0 +1,134 @@
+valor,score,freq
+hematoma,2,371
+fratura,5,175
+não sabe,0,57
+edema,4,21
+ferida,1,13
+Entorse,4,9
+Ferida,2,7
+Escoriação,1,6
+entorse,3,6
+luxação,6,6
+rutura,8,6
+Contusão,2,5
+Corte,4,5
+Traumatismo,8,5
+pisaduras,5,5
+ENTORSE,3,4
+Feridas,2,4
+TRAUMATISMO,8,4
+Edema,4,3
+Escoriações,1,3
+Rutura,8,3
+Torção,0,3
+Trauma,7,3
+arranhão,1,3
+contusão,2,3
+corte,4,3
+levou pontos,2,3
+perna,0,3
+Arranhou,1,2
+INFLAMAÇÃO,4,2
+Pisado,4,2
+Pisadura,7,2
+Rotura,0,2
+abriu a cabeça,10,2
+deslocamento de 2 elos da coluna,9,2
+escoriação,1,2
+estiramento,4,2
+fraturou,5,2
+pisadura,7,2
+torção,4,2
+traumatismo,8,2
+3 fraturas,8,1
+AVC,9,1
+Abriu a cabeça,10,1
+Ainda não sabe,0,1
+Arranhão,1,1
+Arranhões,1,1
+Arranhões e hematoma,2,1
+Braço,0,1
+Contusao,2,1
+"Contusão,ferida",2,1
+Cortes e hematoma,4,1
+Deslocamento da prótese da anca.,8,1
+ESTALOU,0,1
+Estiramento,4,1
+FERIDA,1,1
+Fer e hematoma,4,1
+Fractura,7,1
+Fratura e hematomas,7,1
+Golpe,2,1
+Hematoma,2,1
+Hematoma e AVC após dias,10,1
+Hematoma e rutura,10,1
+Hemorragia,10,1
+Hérnia,7,1
+Inflamação,2,1
+Joelhos,0,1
+LUXAÇAO,6,1
+Laceração,0,1
+Lesionou,0,1
+Luxação,6,1
+MUSCULAR,0,1
+Microfratura menisco,4,1
+Muscular,0,1
+PERDA LIGEIRA,1,1
+PERNA E BRAÇO,0,1
+Partiu,5,1
+Partiu Pé,5,1
+Partiu dentes e abriu queixo,7,1
+Pisado e dorido,4,1
+Pisou,0,1
+Queimadura,4,1
+RASGOU A PELE,1,1
+Rachou,5,1
+Rotura de ligamentos,7,1
+Ruptura,10,1
+Rutura Muscular,4,1
+TENDAO,7,1
+TORCEU,3,1
+Torceu,3,1
+Traumatismo craniano,8,1
+abalou os dentes,2,1
+agravou a rotura,10,1
+arranhões,1,1
+avc,9,1
+cabeça,0,1
+cortou,0,1
+costas,0,1
+deslocar,0,1
+distensão,4,1
+dor,0,1
+dor interna,4,1
+dores,0,1
+estalou,0,1
+ferida aberta,4,1
+ferida e hematoma,3,1
+"ferida, hematoma",2,1
+feridas,1,1
+ferimentod,0,1
+fratua,5,1
+fratuta,5,1
+golpe,1,1
+hematoma e dentes partidos,7,1
+"hematoma, arranhão",2,1
+hematoma/ferida,2,1
+hematoma/fratura,8,1
+hematoma;fratura,8,1
+hematona,2,1
+hemetoma,2,1
+infeção,4,1
+inflamação,4,1
+lesao,0,1
+lesão menisco,4,1
+luxação/deslocou,6,1
+mão,0,1
+osso pisado,7,1
+pisado,5,1
+pisou,0,1
+pontos,0,1
+rotura,8,1
+tendinite,2,1
+tornozelo,0,1
+trauma,8,1
