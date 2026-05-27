@@ -7,8 +7,8 @@ This repository contains the code developed in the [FRAIL project](https://doi.o
 
 Once oppening, you can perform **outcomes predictions** using the ML models developed for elderly individuals.
 
-![FRAIL Welcome](images/frail_welcome.png)  
-![FRAIL Prediction](images/frail_prediction.png)
+![FRAIL Welcome](frail_welcome.png)  
+![FRAIL Prediction](frail_prediction.png)
 
 
 
@@ -19,5 +19,5 @@ Once oppening, you can perform **outcomes predictions** using the ML models deve
 *Authors:* [Henrique Anjos], [Rafael Costa](https://github.com/r-costa), Tiago dos Santos, Tiago Nobrega, José Pedreira, [Rui Henriques](http://web.ist.utl.pt/rmch/) (INESC-ID), Rui Oliveira, José Pinto, Daniel M. Gonçalves (FADEUP), Rui Baptista (CMVN Famalicão)
 
 <p float="left">
-  <img src="images/nova_id_logo.png" width="200" />
+  <img src="nova_id_logo.png" width="200" />
 </p>
