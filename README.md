@@ -5,7 +5,7 @@
 
 This repository contains the code developed in the [FRAIL project](https://doi.org/10.54499/2024.07266.IACDC) and the decision support tool. 
 
-Once downloaded/opened, the platform allows users to perform outcome predictions using the ML models developed for elderly individuals. The predictive models here implemented are described [here](https://www.medrxiv.org/content/10.64898/2026.03.13.26347338v1).
+Once downloaded/opened, the platform allows users to perform outcome predictions using the ML models developed for elderly individuals. The predictive models here implemented are described in this [preprint](https://www.medrxiv.org/content/10.64898/2026.03.13.26347338v1).
 
 ![FRAIL Welcome](frail_welcome.png)  
 ![FRAIL Prediction](frail_prediction.png)
